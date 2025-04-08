@@ -1,0 +1,3 @@
+import tictactoe_1d_project1
+
+tictactoe_1d_project1.tictactoe_1d()
